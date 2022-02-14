@@ -1,0 +1,33 @@
+_repo: The-Best-of-Fences_67323
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garrett, Randall
+    aliases:
+    - Garret, Randall
+    - Garrett, Gordon Randall
+    birthdate: 1927
+    deathdate: 1987
+    gutenberg_agent_id: '25267'
+    url: http://www.gutenberg.org/2009/agents/25267
+    wikipedia:
+    - https://www.gutenberg.org/ebooks/author/53466
+    - https://en.wikipedia.org/wiki/Randall_Garrett
+description: ''
+gutenberg_issued: '2022-02-05'
+identifiers:
+  gutenberg: '67323'
+language: en
+pgterms:marc905: 20211106133723garrett
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Royal Publications, Inc,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Best of Fences
+url: http://www.gutenberg.org/ebooks/67323
